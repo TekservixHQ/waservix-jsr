@@ -1,0 +1,9 @@
+{
+  "name": "@tekservix/waservix",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": ["mod.ts", "README.md", "LICENSE"]
+  }
+}
