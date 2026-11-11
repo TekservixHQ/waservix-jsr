@@ -4,6 +4,8 @@
 [![JSR Score](https://jsr.io/badges/@tekservix/waservix/score)](https://jsr.io/@tekservix/waservix)
 [![tests](https://github.com/TekservixHQ/waservix-jsr/actions/workflows/tests.yml/badge.svg)](https://github.com/TekservixHQ/waservix-jsr/actions/workflows/tests.yml)
 
+**WAservix WhatsApp API Gateway** - official TypeScript client on JSR (Deno, Bun, Node, edge): send WhatsApp messages from your own number. By Tekservix.
+
 TypeScript client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/), for Deno, Bun, Node.js and edge runtimes.
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, video, audio, documents, locations, polls and more, with webhooks for incoming messages and status updates.
